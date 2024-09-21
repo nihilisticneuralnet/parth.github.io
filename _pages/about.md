@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<img align="right" height="200" src="https://github.com/nihilisticneuralnet/nihilisticneuralnet/assets/138315505/c0dc2dc4-2ddc-45b3-89ab-ede2b112c334"  />
+
 ![Illustration of combining vision and language modalities](/images/itcrowd.gif){: .align-right width="300px"}
 Just your average buddy, casually modelling the future of AI, while sipping adrak chai and pretending its not a big deal.
 
